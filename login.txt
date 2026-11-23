@@ -1,0 +1,5 @@
+hello this is some text in feature styles
+the text will be to cause a git clash
+this is a kine that can cause clash
+clashes can happen whne same line when editing
+this is the line ath the end
